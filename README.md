@@ -3,17 +3,21 @@
 ## 👩‍💻 스터디원
 권민지, 장민수, 이채원
 
+
 ## 📗 학습 자료
 - [Android jetpack] (https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/)
 
+
 ## 🤝 스터디 노션
 - [GDSC Gachon Mobile Study Notion](https://alabaster-bus-f33.notion.site/GDSC-Gachon-Mobile-Study-a3ef9cdb308c448da3be90d0d77be2ac?pvs=4)
+
 
 ## 📌 진행 방식
 - 스터디 시간 : 매주 목요일 18:00 - 19:00
 - 강의 수강 및 코드 실습
 - 강의 내용 + 추가적인 내용 (codelab, 공식문서 등) 노션에 정리 후 스터디 노션 페이지에 업로드
 - 실습 코드 깃허브에 업로드
+  
 
 ## 📋 과제 제출
 < 깃허브 >
