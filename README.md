@@ -5,7 +5,7 @@
 
 
 ## 📗 학습 자료
-- [Android jetpack] (https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/)
+- [Android jetpack](https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/)
 
 
 ## 🤝 스터디 노션
